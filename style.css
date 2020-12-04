@@ -1,0 +1,47 @@
+ 
+.main 
+{ 
+width: 100%; 
+margin: auto; 
+} 
+  
+.kostka 
+{ 
+display: inline-block; 
+margin: 10px; 
+} 
+  
+body
+{ 
+text-align: center;
+} 
+  
+h1 { 
+margin: 25px; 
+font-size: 75px; 
+color: Black; 
+} 
+  
+img 
+{ 
+width: 50%; 
+} 
+  
+   
+.button
+{ 
+background-color: red;
+border-radius: 6px;
+border-style: solid;
+border-color: black;
+color:white;
+padding: 10px;
+width: 200px;
+cursor: pointer;
+} 
+
+.button:hover
+{
+background-color: rgb(104, 0, 0)
+}
+
